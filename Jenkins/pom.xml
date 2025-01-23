@@ -3,7 +3,7 @@
   <groupId>Jenkins</groupId>
   <artifactId>Jenkins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  name>jenkins</name> 
+  <name>jenkins</name> 
    <build> 
  		<plugins> 
  			<plugin> 
